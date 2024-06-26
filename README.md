@@ -8,15 +8,15 @@ before your opponent.
 with every move. The window also shows the players' current score and 
 indicates which player you are.
 - Gameplay:
-  ▪ The game takes place in turns, with each player making one move in 
-  succession. 
-  ▪ At the beginning, players have a board with covered fields. In each 
+   1. The game takes place in turns, with each player making one move in 
+    succession.
+  2. At the beginning, players have a board with covered fields. In each 
   move, the player reveals one square, which can be either a mine or a 
   number. When a player hits a mine, a point is added to their score. On 
   the other hand, selecting a field with a number allows the player to 
   determine how many mines are in the immediate neighborhood of a 
   given cell and use this knowledge in the next move.
-  ▪ The game ends when one of the players finds more than half of the 
+  3. The game ends when one of the players finds more than half of the 
   hidden mines, i.e. their score is equal to 5 or there is a draw.
 
 Example: https://minesweeper-multiplayer.dk/ 
